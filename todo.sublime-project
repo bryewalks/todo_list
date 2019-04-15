@@ -1,0 +1,11 @@
+{
+    "folders":
+    [
+        ".todo_list"
+    ],
+
+    "syntax_override": {
+        "\\.html$": ["Handlebars", "grammars", "Handlebars"],
+        "\\.js$": ["Babel", "JavaScript (Babel)"]
+    }
+}
